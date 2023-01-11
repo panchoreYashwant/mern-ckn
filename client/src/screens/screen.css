@@ -1,0 +1,62 @@
+
+.mainScreen_Bg{
+    background:rgb(34, 36, 42);
+    width: 100vw;
+    height: 100vh;
+}
+
+.tea{
+    /* background-image: url("../../public/images/item.png"); */
+    /* background-color: aliceblue; */
+   }
+   .itemImage{
+    width: 15rem;
+    /* background-color: bisque; */
+   }
+   .borderRound{
+    border-radius: 53% 47% 64% 36% / 36% 28% 72% 64% ;
+    background-color: black;
+    color: aliceblue;
+    
+    width:  2rem;
+    height: 2rem;
+    padding: 100 100 50 10 !important;
+    margin: auto;
+    filter: drop-shadow(0rem 0rem 1rem red);
+
+
+   }
+   .logo_card{
+    /* position: absolute; */
+    /* top: 15rem;
+    left: 7.5rem; */
+    margin-top: 2rem;
+    margin-bottom: -7.5rem;
+    margin-left: 7rem;
+    border: aquamarine;
+   }
+   .logo_item_card{
+    /* position: absolute;
+    top: 9.5rem;
+    left: 3rem; */
+    margin-top: -3rem;
+    margin-left: 1.5rem;
+    display: flex;
+    justify-content:flex-start;
+    /* align-items: center; */
+    border: none;
+   }
+   .logo_item_card2{
+    position: absolute;
+    top: 21.5rem;
+    left: 7.5rem;
+    border: none;
+
+   }
+   .logo_item_card3{
+    position: absolute;
+    top: 21.5rem;
+    left: 11rem;
+    border: none;
+
+   }
